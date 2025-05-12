@@ -1,16 +1,6 @@
 # Project-05-Dynamic-Pricing-Engine-for-E-Commerce
-An advanced, production-grade machine learning system that dynamically adjusts product prices in an e-commerce environment based on real-time demand, competition, seasonality, and user behaviour.  This project simulates how modern retailers use AI to optimise pricing at scale, following end-to-end ML best practices using OOP, Docker, MLOps, and AWS.
-
-
-Here’s a **GitHub repository description** for your project, **Dynamic Pricing Engine for E-Commerce**, professionally crafted to reflect its advanced ML and MLOps components:
-
----
-
-## 🧠 Dynamic Pricing Engine for E-Commerce – *Project R0uTer*
-
-An advanced, production-grade **machine learning system** that dynamically adjusts product prices in an e-commerce environment based on real-time demand, competition, seasonality, and user behaviour.
-
-This project simulates how modern retailers use AI to optimise pricing at scale, following **end-to-end ML best practices** using OOP, Docker, MLOps, and AWS.
+An advanced, production-grade machine learning system that dynamically adjusts product prices in an e-commerce environment based on real-time demand, competition, seasonality, and user behaviour.  
+This project simulates how modern retailers use AI to optimise pricing at scale, following end-to-end ML best practices using OOP, Docker, MLOps, and AWS.
 
 ---
 
