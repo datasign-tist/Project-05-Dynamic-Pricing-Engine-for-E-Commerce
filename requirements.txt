@@ -1,0 +1,48 @@
+# Core Python Libraries
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+joblib
+
+# Time Series & Forecasting
+prophet
+statsmodels
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web App / API
+fastapi
+uvicorn[standard]
+python-multipart  # For handling file uploads in FastAPI
+
+# Dashboard
+streamlit
+
+# MLOps & Experiment Tracking
+mlflow
+
+# Task Scheduling (Optional)
+apache-airflow
+
+# AWS SDK
+boto3
+
+# Data Validation & Parsing
+pydantic
+python-dateutil
+
+# Dev Tools
+ipykernel
+jupyter
+notebook
+
+# Containerization & Deployment
+gunicorn
+
+# Optional: If using CI/CD or Docker-compose later
+requests
