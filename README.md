@@ -32,17 +32,18 @@ This project simulates how modern retailers use AI to optimise pricing at scale,
 ```
 dynamic-pricing-engine/
 │
-├── data/                  # Raw & processed data
-├── notebooks/             # EDA and prototyping
-├── src/
+├── Data/                  # Raw & processed data
+├── Notebooks/             # EDA and prototyping
+├── Structure_Template     # To create a folder structure without manual efforts
+├── Src/
 │   ├── data_pipeline/     # OOP-based data loaders, preprocessors
 │   ├── features/          # Feature generators
 │   ├── models/            # Training scripts & model wrappers
 │   ├── api/               # FastAPI inference service
 │   └── utils/             # Helpers and config
-├── dashboard/             # Streamlit dashboard app
-├── docker/                # Dockerfiles, docker-compose
-├── mlflow/                # Tracking experiments
+├── Dashboard/             # Streamlit dashboard app
+├── Docker/                # Dockerfiles, docker-compose
+├── Mlflow/                # Tracking experiments
 ├── .github/               # GitHub Actions workflows
 ├── README.md
 └── requirements.txt
