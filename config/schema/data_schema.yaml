@@ -1,0 +1,38 @@
+
+sales_data:
+  columns:
+    - name: timestamp
+      dtype: datetime
+      required: true
+
+    - name: product_id
+      dtype: string
+      required: true
+
+    - name: region
+      dtype: string
+      required: true
+
+    - name: units_sold
+      dtype: int
+      required: true
+      constraints:
+        min: 0
+
+    - name: price
+      dtype: float
+      required: true
+      constraints:
+        min: 0.0
+
+    - name: inventory
+      dtype: int
+      required: false
+
+    - name: promotion
+      dtype: bool
+      required: false
+
+    - name: competitor_price
+      dtype: float
+      required: false
