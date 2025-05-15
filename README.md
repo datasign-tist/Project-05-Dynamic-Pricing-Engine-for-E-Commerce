@@ -34,13 +34,11 @@ In this phase, we focused on building the foundational data pipeline to support 
 ### ✅ Feature Engineering
 - Created lag features (e.g., 7-day, 30-day sales)
 - Added seasonality indicators (day of week, holidays)
-- Encoded promotions, product categories, and competitor IDs
+- Encoded promotions, product categories, and competitor IDS
 
 ### ✅ ETL Orchestration
 - Built a modular ETL pipeline in `etl_pipeline.py`
 - Automated workflow using Airflow DAG (coming in Phase 4)
 
-### 📁 Output
-All cleaned and feature-rich data is exported to:
 
 ---
