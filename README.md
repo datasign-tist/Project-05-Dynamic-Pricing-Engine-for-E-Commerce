@@ -50,3 +50,21 @@ In this phase, we focused on building the foundational data pipeline to support 
 5. Add the common.py file inside the  utils --> The Utility file helps us reuse the function ( Professional OOps Programming ). We have used the config-box and ensure-annotation for better standard coding.
 
 ------------------------------------------------------------------------------------------------------------
+
+## Now, we will follow the workflow process for each data science project step.
+
+### The Workflow Structure :
+A.  Update config.yaml  
+B.  Update schema.yaml  
+C.  Update params.yaml  
+D.  Update the entity  
+E.  Update the configuration manager in the src config  
+F.  Update the components  
+G.  Update the pipeline  
+H.  Update the main.py  
+I.  Update the app.py  
+
+We will perform all the above operations for each data-science project stage.  
+We will perform modular coding (OOP Programming).
+
+------------------------------------------------------------------------------------------------------------
